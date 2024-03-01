@@ -11,6 +11,6 @@ I’m currently an undergrad in Faculty of Computers and Artificial Intelligence
 - "In Progress" CS50 2024 (Harvard)
 
 📫 How to reach me:
--Linkedin: https://www.linkedin.com/in/loaihataba
--Email: Loaiwleed2005@hotmail.com/Loaiwleed2005@gmail.com
--Instagram: https://www.instagram.com/loai.hataba
+Linkedin: https://www.linkedin.com/in/loaihataba
+|Email: Loaiwleed2005@hotmail.com/Loaiwleed2005@gmail.com
+|Instagram: https://www.instagram.com/loai.hataba
