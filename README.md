@@ -1,6 +1,6 @@
 Hi, I’m @Loai-Hataba
 I’m interested in countless subjects and topics you'd lose count before i'm half way done listing them.
-I’m currently an undergrad in Faculty of Computers and Artificial Intelligence Cairo University, and taking the CS50 2024 Course as of now.
+I’m currently an undergrad in Faculty of Computers and Artificial Intelligence Cairo University.
 
 🥇Achievments & Certificates:
 -Ai Career Essentials (ALX)
