@@ -12,5 +12,5 @@ I’m currently an undergrad in Faculty of Computers and Artificial Intelligence
 
 📫 How to reach me:
 Linkedin: https://www.linkedin.com/in/loaihataba
-| Email: Loaiwleed2005@hotmail.com/Loaiwleed2005@gmail.com  
+| Email: LoaiHataba@gmail.com  
 | Instagram: https://www.instagram.com/loai.hataba
