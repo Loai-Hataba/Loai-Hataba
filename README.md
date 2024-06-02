@@ -19,3 +19,7 @@ Linkedin: https://www.linkedin.com/in/loaihataba
 Email: LoaiHataba@gmail.com  
 
 Instagram: https://www.instagram.com/loai.hataba
+
+<p align="center">
+  <img src="https://drive.google.com/file/d/1lnhtRjqyXbkty4834M254RA5FDdKffBk/view?usp=drive_link" alt="C/C++" height="40"/>
+</p>
