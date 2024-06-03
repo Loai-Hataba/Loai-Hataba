@@ -21,5 +21,5 @@ Email: LoaiHataba@gmail.com
 Instagram: https://www.instagram.com/loai.hataba
 
 <p align="center">
-  <img src="https://drive.google.com/file/d/1lnhtRjqyXbkty4834M254RA5FDdKffBk/view?usp=drive_link" alt="C/C++" height="40"/>
+  <img src="[Assets/linked in.png](https://github.com/Loai-Hataba/Loai-Hataba/blob/bcac7f56fc452a55039aa09684e5e34b965e73d8/Assets/linked%20in.png)" alt="Linkedin" height="40"/>
 </p>
