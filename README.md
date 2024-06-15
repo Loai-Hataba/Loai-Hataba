@@ -6,9 +6,10 @@ I’m  an undergrad in the Faculty of Computers and Artificial Intelligence, Cai
 
 <h2 style="font-family: Arial, sans-serif; color: #2c3e50; font-size: 19px;">Achievments & Certificates</h2>
 
+- <a href="https://www.credly.com/badges/519808d1-07f5-469a-8f05-c67669e38b09/print">Data Fundamentals, (IBM SkillsBuild)</a>
 - <a href="https://cert.efset.org/sL9JiC">C2 Proficient English (EF SET)</a>
 - <a href="https://intranet.alxswe.com/certificates/ncSx5pr6XF">Ai Career Essentials (ALX)</a>
-- <a href="https://msa.edu.eg/msauniversity/student-life/student-activities-clubs/mun">2 times Best Delegate MSA MUN</a>
+- <a href="https://msa.edu.eg/msauniversity/student-life/student-activities-clubs/mun">2 times Best Delegate (MSAMUN)</a>
 - Python Basic Skill exam (HackerRank)
 - <a href="https://www.freecodecamp.org/certification/fcc0fbc68dd-df62-4000-b4be-3c42e6698212/scientific-computing-with-python-v7">Scientific Computation with Python (FreeCodeCamp)</a>
 - Web Development Challenger Track (Ministry of Communications and Information Technology of Egypt)
@@ -28,7 +29,7 @@ I’m  an undergrad in the Faculty of Computers and Artificial Intelligence, Cai
   </a>
   </span>
 
-<h2 style="font-family: Arial, sans-serif; color: #2c3e50; font-size: 19px;">Skills</h2>
+<h2 style="font-family: Arial, sans-serif; color: #2c3e50; font-size: 19px;">Languages</h2>
 
 <span style="display: inline-block;">
   <img src="Assets/c++.png" alt="C++" width="40" height="40" style="margin-right: 20px;"/>
