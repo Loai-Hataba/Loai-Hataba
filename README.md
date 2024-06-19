@@ -6,7 +6,8 @@ I’m  an undergrad in the Faculty of Computers and Artificial Intelligence, Cai
 
 <h2 style="font-family: Arial, sans-serif; color: #2c3e50; font-size: 19px;">Achievments & Certificates</h2>
 
-- <a href="https://www.credly.com/badges/519808d1-07f5-469a-8f05-c67669e38b09/print">Data Fundamentals, (IBM SkillsBuild)</a>
+- <a href="https://www.credly.com/badges/cfa26c04-0d94-485b-ad20-ee1b7108fabe/public_url">Intro to Cybersecurity (Cisco Netacad)</a>
+- <a href="https://www.credly.com/badges/519808d1-07f5-469a-8f05-c67669e38b09/print">Data Fundamentals (IBM SkillsBuild)</a>
 - <a href="https://cert.efset.org/sL9JiC">C2 Proficient English (EF SET)</a>
 - <a href="https://intranet.alxswe.com/certificates/ncSx5pr6XF">Ai Career Essentials (ALX)</a>
 - <a href="https://msa.edu.eg/msauniversity/student-life/student-activities-clubs/mun">2 times Best Delegate (MSAMUN)</a>
@@ -15,7 +16,6 @@ I’m  an undergrad in the Faculty of Computers and Artificial Intelligence, Cai
 - Web Development Challenger Track (Ministry of Communications and Information Technology of Egypt)
 - "In Progress" Career Essentials in Project Management (Linkedin & Microsoft)
 - "In Progress" CS50 2024 (Harvard)
-- "In Progress" Intro to Cybersecurity (Cisco Netacad)
 
 <h2 style="font-family: Arial, sans-serif; color: #2c3e50; font-size: 17px;">Resume & Portfolio</h2>
 <span style="display: inline-block;">
