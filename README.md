@@ -60,6 +60,11 @@ I’m  an undergrad in the Faculty of Computers and Artificial Intelligence, Cai
   <img src="Assets/mail.png" alt="Mail" width="40" height="40" style="margin-right: 20px;"/>
   </a>
   </span>
+  <span style="display: inline-block;">
+  <a href="https://www.credly.com/users/loaihataba">
+  <img src="Assets/Credly.png" alt="Credly" width="40" height="40" style="margin-right: 20px;"/>
+  </a>
+  </span>
 
 
 
