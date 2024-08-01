@@ -6,6 +6,7 @@ I’m  an undergrad in the Faculty of Computers and Artificial Intelligence, Cai
 
 <h2 style="font-family: Arial, sans-serif; color: #2c3e50; font-size: 19px;">Achievments & Certificates</h2>
 
+- HCIA-AI (Huwaei)
 - <a href="https://www.credly.com/badges/cfa26c04-0d94-485b-ad20-ee1b7108fabe/public_url">Intro to Cybersecurity (Cisco Netacad)</a>
 - <a href="https://www.credly.com/badges/519808d1-07f5-469a-8f05-c67669e38b09/print">Data Fundamentals (IBM SkillsBuild)</a>
 - <a href="https://cert.efset.org/sL9JiC">C2 Proficient English (EF SET)</a>
@@ -18,15 +19,10 @@ I’m  an undergrad in the Faculty of Computers and Artificial Intelligence, Cai
 - "In Progress" Career Essentials in Project Management (Linkedin & Microsoft)
 - "In Progress" CS50 2024 (Harvard)
 
-<h2 style="font-family: Arial, sans-serif; color: #2c3e50; font-size: 17px;">Resume & Portfolio</h2>
+<h2 style="font-family: Arial, sans-serif; color: #2c3e50; font-size: 17px;">Resume</h2>
 <span style="display: inline-block;">
   <a href="https://drive.google.com/file/d/1xRkaI1Ock9gU-ufFyhpqAB89nSFoPlSW/view?usp=sharing">
   <img src="Assets/cv.png" alt="Resume" width="40" height="40" style="margin-right: 20px;"/>
-  </a>
-  </span>
-<span style="display: inline-block;">
-  <a href="https://loai-hataba.framer.ai">
-  <img src="Assets/portfolio.png" alt="Portfolio" width="40" height="40" style="margin-right: 20px;"/>
   </a>
   </span>
 
