@@ -6,6 +6,9 @@ I’m  an undergrad in the Faculty of Computers and Artificial Intelligence, Cai
 
 <h2 style="font-family: Arial, sans-serif; color: #2c3e50; font-size: 19px;">Achievments & Certificates</h2>
 
+- <a href="https://www.credly.com/badges/fccd9caf-2387-4348-93ac-c5d676ab508a/public_url">Junior Cybersecurity Analyst Career Path Exam<\a>
+- <a href="https://www.credly.com/badges/ccc1784a-8201-4a87-840a-aa987cc0d4cb/public_url">Network Support and Security (Cisco)<\a>
+- <a href="https://www.credly.com/badges/ef55ee7f-5cd5-453b-aee8-893bfbfec20a/public_url">Cyber Threat Management (Cisco)</a>
 - <a href="https://www.linkedin.com/learning/certificates/711718319198336a8e9b58c314e823aa670e8568b89427772c19479689d5fba9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BF7%2F1bD%2B5SqynTxWcsBEYNA%3D%3D">Career Essentials in CyberSecurity (Microsoft/LinkedIn)</a>
 - HCIA-AI (Huwaei)
 - <a href="https://www.linkedin.com/learning/certificates/deebc825554d27d064c77a4f4b9e9e43453812359fd9503ef7975732de3de8eb?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BF7%2F1bD%2B5SqynTxWcsBEYNA%3D%3D">Career Essentials in Software Devolepment (Microsoft/LinkedIn)</a>
@@ -22,7 +25,7 @@ I’m  an undergrad in the Faculty of Computers and Artificial Intelligence, Cai
 
 <h2 style="font-family: Arial, sans-serif; color: #2c3e50; font-size: 17px;">Resume</h2>
 <span style="display: inline-block;">
-  <a href="https://drive.google.com/file/d/1xRkaI1Ock9gU-ufFyhpqAB89nSFoPlSW/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1VsFdJOMsNCUF6cQPSV0LgslbvlhWarya/view?usp=sharing">
   <img src="Assets/cv.png" alt="Resume" width="40" height="40" style="margin-right: 20px;"/>
   </a>
   </span>
