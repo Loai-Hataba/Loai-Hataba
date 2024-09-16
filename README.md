@@ -21,7 +21,6 @@ I’m  an undergrad in the Faculty of Computers and Artificial Intelligence, Cai
 - Python Basic Skill exam (HackerRank)
 - <a href="https://www.freecodecamp.org/certification/fcc0fbc68dd-df62-4000-b4be-3c42e6698212/scientific-computing-with-python-v7">Scientific Computation with Python (FreeCodeCamp)</a>
 - Web Development Challenger Track (Ministry of Communications and Information Technology of Egypt)
-- "In Progress" CS50 2024 (Harvard)
 
 <h2 style="font-family: Arial, sans-serif; color: #2c3e50; font-size: 17px;">Resume</h2>
 <span style="display: inline-block;">
