@@ -8,7 +8,7 @@ I’m interested in countless subjects and topics—you'd lose count before I'm 
 - **Machine Learning:** Building predictive models to solve real-world problems.
 - **DevOps/Environment:** Replicating seamless dev environments using Docker and Conda.
 
-### 🛠️ My Toolbox
+### My Toolbox
 - **Languages:** Python, SQL, C++
 - **Tools & Tech:** SCi-kitLearn, Numpy, Git/GitHub, Conda, SSIS
 
